@@ -12,7 +12,12 @@ const Hero = () => {
           </div>
         </div>
 
-        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8">
+        <h1
+          data-aos="fade-down"
+          data-aos-easing="linear"
+          data-aos-duration="1500"
+          className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8"
+        >
           EMAIL FOR
           <br />
           DEVELOPERS
@@ -25,6 +30,9 @@ const Hero = () => {
 
         <div className="flex mt-8 gap-2 sm:gap-6">
           <a
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="1000"
             className="border border-[#2a2a2a] py-2 sm:py-3 px-3 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a]"
             href="#"
           >
@@ -32,6 +40,9 @@ const Hero = () => {
           </a>
 
           <a
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="1000"
             className="border border-[#2a2a2a] py-2 sm:py-3 px-3 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 bg-white text-black hover:bg-black hover:text-white"
             href="#"
           >

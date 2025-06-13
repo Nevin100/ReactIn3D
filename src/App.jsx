@@ -1,7 +1,17 @@
 import Header from "./Components/Header.jsx";
 import Hero from "./Components/Hero.jsx";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
 
 const App = () => {
+  useEffect(() => {
+    AOS.init({
+      duration: 1500,
+      once: true,
+      easing: "ease-in-out",
+    });
+  }, []);
   return (
     <main className="">
       <img
