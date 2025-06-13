@@ -24,7 +24,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-base sm:text-lg tracking-wider text-gray-400 max-w-[25rem] lg:max-w-[35rem]">
-          The best way to reach uumans instead of spam folders, deliver
+          The best way to reach humans instead of spam folders, deliver
           transactional and marketing emails at scale..
         </p>
 
