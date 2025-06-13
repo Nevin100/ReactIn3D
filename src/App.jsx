@@ -1,8 +1,18 @@
+import Header from "./Components/Header";
+
 const App = () => {
   return (
-    <div>
-      <h1 className="text-2xl font-bold underline">Hello World !!</h1>
-    </div>
+    <main className="">
+      <img
+        className="absolute top-0 right-0 opacity-60 -z-10"
+        src={`/gradient.png`}
+        alt="Gradient"
+      />
+
+      <div className="h-0 w-[40rem] aboslute top-[20%] right-[-15%] shadow-[0_0_900px_20px_#e99b63] -rotate-[30deg] -z-10"></div>
+
+      <Header />
+    </main>
   );
 };
 
