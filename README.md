@@ -60,6 +60,7 @@ So... we slapped some depth, glow, and glassy vibes on it.
 <br/>
 <hr/>
 📸 Preview
-![image](https://github.com/user-attachments/assets/2a49f7d0-8c2b-44e5-9e61-77851e66786e)
+![image](https://github.com/user-attachments/assets/b0e78aa0-2ef6-4325-8c92-f6d5b987cf91)
+
 
 
