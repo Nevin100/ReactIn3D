@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="md:mx-30 flex justify-center mb-1 px-4 md:px-10">
+    <header className="md:mx-30 flex justify-center mb-5 px-4 md:px-10">
       <nav className="flex w-full items-center justify-between py-5 px-2">
         {/* Left Section - Logo */}
         <div className="flex items-center">
@@ -90,7 +90,7 @@ const Navbar = () => {
           </div>
         </div>
       )}
-    </div>
+    </header>
   );
 };
 
