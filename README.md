@@ -5,6 +5,8 @@
 Welcome to **ReactIn3D**, where frontend meets future. Built with `React.js`, `TailwindCSS`, and the powerful visual magic of `Spline`, this responsive 3D site is a tech-art fusion to showcase how cool dev tools can look.
 
 ![image](https://github.com/user-attachments/assets/5badc070-758e-4aff-a547-a60d08ed4f50)
+![image](https://github.com/user-attachments/assets/6f9c6bd7-59e8-49b6-af76-dd80c4b8eb70)
+
 
 ---
 
@@ -57,10 +59,7 @@ So... we slapped some depth, glow, and glassy vibes on it.
 🎯 Spline 3D
 ⚡ Tailwind’s wicked gradients
 
-<br/>
-<hr/>
-📸 Preview
-![image](https://github.com/user-attachments/assets/b0e78aa0-2ef6-4325-8c92-f6d5b987cf91)
+
 
 
 
